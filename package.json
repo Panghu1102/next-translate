@@ -1,0 +1,19 @@
+{
+  "name": "next-translate",
+  "version": "1.0.0",
+  "description": "A translation plug-in prepared for the most difficult part of Next.js to internationalize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/Panghu1102/next-translate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
