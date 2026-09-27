@@ -1,0 +1,29 @@
+{
+  "name": "next-translate",
+  "version": "0.1.0",
+  "description": "Auto-generate multi-language Markdown/MDX posts for Next.js with shared URLs.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/Panghu1102/next-translate"
+  },
+  "keywords": [
+    "nextjs",
+    "i18n",
+    "markdown",
+    "mdx",
+    "blog"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
